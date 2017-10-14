@@ -1,0 +1,22 @@
+{
+  "name": "11-flashcards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CardSource.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronA05/11-Flashcards.git"
+  },
+  "author": "Aaron Arndt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronA05/11-Flashcards/issues"
+  },
+  "homepage": "https://github.com/AaronA05/11-Flashcards#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
